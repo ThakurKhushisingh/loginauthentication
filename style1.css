@@ -1,0 +1,24 @@
+
+h2{
+    color: rgb(28, 4, 85);
+}
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 70%;
+    margin: 0;
+    background-color: rgb(25, 27, 27);
+    
+    
+  }
+  form {
+    border: 1px solid #ccc;
+    padding: 80px;
+    border-radius: 40px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: rgb(34, 95, 207);
+  }
+ 
+  
